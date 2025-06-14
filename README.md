@@ -5,7 +5,8 @@ This project explores an e-commerce dataset using Python and SQL to extract insi
 ## 📁 Project Files
 
 - **E-commerce(Python+SQL).ipynb**: Jupyter notebook that contains the full analysis using Python (pandas, matplotlib, seaborn) and SQL (SQLite or similar).
-
+- **Dataset** – Download from [Target Dataset on Kaggle](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv) *(includes orders.csv, customers.csv, products.csv, etc.)
+  
 ## 📌 Key Features
 
 - Customer segmentation and behavior analysis
@@ -22,13 +23,16 @@ This project explores an e-commerce dataset using Python and SQL to extract insi
 ## 🚀 Getting Started
 
 To run the notebook:
+1. Download Dataset
+Download the dataset files (`orders.csv`, `customers.csv`, `products.csv`, etc.) from Kaggle:
+👉 [Target Dataset – Kaggle](https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
 
-1. Clone the repo:
+2. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/ecommerce-python-sql.git
-2. Open the .ipynb file in Jupyter Notebook or Google Colab.
+3. Open the .ipynb file in Jupyter Notebook or Google Colab.
 
-3. Install necessary libraries if not already installed:
+4. Install necessary libraries if not already installed:
    pip install pandas matplotlib seaborn
 
 📈 Sample Visualizations
